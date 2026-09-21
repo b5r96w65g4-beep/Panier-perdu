@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: #14192B;
+  color: #F5F3EE;
+}
