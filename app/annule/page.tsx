@@ -17,7 +17,8 @@ export default function Annule({
             : "Aucun montant n'a été débité. Vous pouvez réessayer quand vous voulez."}
         </p>
         
-          href="/"
+          
+        <a href="/"
           className="inline-block mt-6 bg-or text-encre font-semibold px-6 py-3"
         >
           Retour à l&rsquo;accueil
